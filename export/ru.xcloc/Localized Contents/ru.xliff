@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="lokalise-test/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>lokalise-test</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lokalise-test/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="This app uses an on-device VPN to identify dangerous websites before they cause harm. This is done in real-time, during which none of your personal data is stored or shared. When a VPN is running, you’ll see its icon in your status bar.">
+        <source>This app uses an on-device VPN to identify dangerous websites before they cause harm. This is done in real-time, during which none of your personal data is stored or shared. When a VPN is running, you’ll see its icon in your status bar.</source>
+        <note>Title for Web Protection toggle footer</note>
+      </trans-unit>
+      <trans-unit id="Try Again">
+        <source>Try Again</source>
+        <note>Try again button</note>
+      </trans-unit>
+      <trans-unit id="trial_title_format">
+        <source>trial_title_format</source>
+        <note>[DNT] String format for trial days</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="lokalise-test/en.lproj/Localizable.stringsdict" source-language="en" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="/trial_title_format:dict/NSStringLocalizedFormatKey:dict/:string">
+        <source>Start your free %#@num_trial_days@ trial. You can cancel anytime.</source>
+        <target>Start your free %#@num_trial_days@ trial. You can cancel anytime.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/trial_title_format:dict/num_trial_days:dict/few:dict/:string">
+        <source>%d-day</source>
+        <target>%d-day</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/trial_title_format:dict/num_trial_days:dict/many:dict/:string">
+        <source>%d-day</source>
+        <target>%d-day</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/trial_title_format:dict/num_trial_days:dict/one:dict/:string">
+        <source>%d-day</source>
+        <target>%d-day</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/trial_title_format:dict/num_trial_days:dict/other:dict/:string">
+        <source>%d-day</source>
+        <target>%d-day</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
